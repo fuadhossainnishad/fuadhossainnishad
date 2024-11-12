@@ -5,12 +5,8 @@
 - 🤔 I’m looking for help with real-time and critical problem solving.
 - 💬 Ask me about my skill's, project's, problems.
 - 📫 How to reach me: fuadhossainbk01@gmail.com
-- 😄 Pronouns:Fuad.
-- ⚡ Fun fact: love to sleep but critical thinker of my own lacking.
--->
-
-
-i am currently working on full stack web development project using nextjs mern stack,typescript,redux,redis,tailwindCSS,nextauthjs and so on.<br><br>i am looking for collaborate on fully fledged advance full stack web development project<br> i am looking for help with creative and real time problem solving<br>
+- 😄 Pronouns: Fuad.
+- ⚡ Fun fact: Love to sleep but critical thinker of my own lacking.
 
 
 ## 🌐 Socials:
