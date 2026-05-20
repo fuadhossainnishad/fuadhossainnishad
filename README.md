@@ -8,18 +8,16 @@
 - 😄 Pronouns: Fuad.
 - ⚡ Fun fact: Love to sleep but critical thinker of my own lacking.
 
+## 🚀 Featured Projects:
+<p align="center"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/31/03/8731034b-52d3-5118-0493-f012c77f3c1a/Placeholder.mill/200x200bb-75.webp" width="120" /> </p>
+📱 The Readiness Track
+
+- A real-time health and readiness assessment application designed to evaluate and monitor personnel readiness status using structured health metrics and intelligent evaluation logic.
+
+🔗 Live App: https://apps.apple.com/us/app/the-readiness-track/id6756326425
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuadhossain01/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24513908) 
-
-
-🚀 Featured App
-<p align="center"> <img src="https://your-logo-or-screenshot-link.png" width="120" /> </p>
-📱 The Readiness Track
-
-A real-time health and readiness assessment application designed to evaluate and monitor personnel readiness status using structured health metrics and intelligent evaluation logic.
-
-🔗 Live App: https://apps.apple.com/us/app/the-readiness-track/id6756326425
 
 
 # 💻 Tech Stack:
